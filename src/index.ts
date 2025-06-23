@@ -22,4 +22,4 @@ function divideByTwo(num: number): number {
 
 console.log(greetStudent("Alice"));
 
-// kompilera koden genom `npx tsc` i terminalen - ni kommer att se att en ./dist-mapp skaas
+// kompilera koden genom `npx tsc` i terminalen - ni kommer att se att en ./dist-mapp skapas
